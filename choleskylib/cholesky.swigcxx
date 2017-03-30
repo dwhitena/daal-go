@@ -1,0 +1,5 @@
+%{
+#include "cholesky.hxx"
+%}
+
+%include "cholesky.hxx"
